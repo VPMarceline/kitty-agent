@@ -1,0 +1,8 @@
+# Optional dependencies for QLoRA training/evaluation only.
+accelerate
+bitsandbytes
+modelscope
+peft
+sentencepiece
+torch
+transformers

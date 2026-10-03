@@ -1,0 +1,9 @@
+[
+  {"id":"policy-agent-boundary","file":"001-agent-boundary.md","topic":"boundary","status":"approved","reviewedAt":"2026-10-01","expiresAt":"2027-04-01"},
+  {"id":"policy-privacy","file":"002-privacy.md","topic":"privacy","status":"approved","reviewedAt":"2026-10-01","expiresAt":"2027-04-01"},
+  {"id":"kb-stress-001","file":"003-stress.md","topic":"stress","status":"approved","reviewedAt":"2026-10-01","expiresAt":"2027-04-01"},
+  {"id":"kb-anxiety-001","file":"004-anxiety-support.md","topic":"anxiety","status":"approved","reviewedAt":"2026-10-01","expiresAt":"2027-04-01"},
+  {"id":"kb-sleep-001","file":"005-sleep.md","topic":"sleep","status":"approved","reviewedAt":"2026-10-01","expiresAt":"2027-04-01"},
+  {"id":"kb-professional-help-001","file":"006-professional-help.md","topic":"professional_help","status":"approved","reviewedAt":"2026-10-01","expiresAt":"2027-04-01"},
+  {"id":"kb-crisis-cn-001","file":"007-crisis-cn.md","topic":"crisis","status":"approved","reviewedAt":"2026-10-01","expiresAt":"2027-01-01"}
+]
